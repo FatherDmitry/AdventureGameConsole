@@ -1,0 +1,7 @@
+D:\0 My Files\My Program\Csharp\AdventureGameConsole\AdventureGameConsole\bin\Debug\AdventureGameConsole.exe.config
+D:\0 My Files\My Program\Csharp\AdventureGameConsole\AdventureGameConsole\bin\Debug\AdventureGameConsole.exe
+D:\0 My Files\My Program\Csharp\AdventureGameConsole\AdventureGameConsole\bin\Debug\AdventureGameConsole.pdb
+D:\0 My Files\My Program\Csharp\AdventureGameConsole\AdventureGameConsole\obj\Debug\AdventureGameConsole.csproj.AssemblyReference.cache
+D:\0 My Files\My Program\Csharp\AdventureGameConsole\AdventureGameConsole\obj\Debug\AdventureGameConsole.csproj.CoreCompileInputs.cache
+D:\0 My Files\My Program\Csharp\AdventureGameConsole\AdventureGameConsole\obj\Debug\AdventureGameConsole.exe
+D:\0 My Files\My Program\Csharp\AdventureGameConsole\AdventureGameConsole\obj\Debug\AdventureGameConsole.pdb
